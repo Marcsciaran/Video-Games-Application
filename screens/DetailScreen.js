@@ -36,7 +36,7 @@ export default class DetailScreen extends Component {
               "headers":{
               "content-type":"application/octet-stream",
               "x-rapidapi-host":"rawg-video-games-database.p.rapidapi.com",
-              "x-rapidapi-key":"a47b4b5427msh8bece100e72a426p1106f0jsn90a14dc9f294"
+              "x-rapidapi-key":"Your_API_Key"
             
             }
             })
